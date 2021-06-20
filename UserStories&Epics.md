@@ -11,5 +11,6 @@
 10. Eu ca utilizator care se plictiseste usor, vreau sa pot alege intre environment uri diferite
 <br/>
 <b>Epics</b>
+<br/>
 1. Vrem se avem o interfata grafica personalizabila pentru a oferi un user experience cat mai bun
 2. Vrem ca utilizatorii sa aiba posibilitatea de a-si face cont pentru a putea folosi mai multe dispozitive si a da cereri de prietenie
