@@ -1,4 +1,4 @@
-<b>User Sroties</b>
+<b>User Stories</b>
 1. Eu ca scolar am nevoie de un joc scurt care sa ma ajute sa pierd cele 10 minute de pauza
 2. Eu ca membru al unui grup de prieteni vreau sa-mi afirm superioritatea avand cel mai mare High Score
 3. Eu ca student vreau sa invat sa fac aplicatii interesante pe placul cator mai multe persoane
